@@ -1,0 +1,8 @@
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\bin\Debug\Autofac.dll
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\bin\Debug\Autofac.xml
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\KrzysztofS\OneDrive\Dev\Visual Studio 2015\AutoFac\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
